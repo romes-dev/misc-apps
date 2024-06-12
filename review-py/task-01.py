@@ -45,7 +45,7 @@ class Bird(Animal):
 # Exemplo de uso
 if __name__ == "__main__":
     caramelo = Dog("Totó", "Vira-lata")
-    bird = Bird("Tweety", "Canary")
+    bird = Bird("Piu piu", "Canário Belga")
 
     caramelo.make_sound()  # Buddy barks.
     caramelo.move()        # Buddy is running.
